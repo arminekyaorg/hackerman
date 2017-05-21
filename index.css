@@ -1,1 +1,29 @@
-p5  {color: dodgerblue}
+
+p {font-family: Arial ;
+color: black  }
+p {background-color: white}
+h1 {color: lime}
+h1 {font-family: Arial ;
+    color: deeppink;
+}
+h2 {color: deeppink}
+h2 {font-family: Arial ;
+color: lime  }
+li {display: inline;
+margin-right: 10px;}
+li {font-family: Arial ;
+color: deepskyblue}
+ul {text-align: center}
+p {
+    background-color: honeydew;
+    font-family: Arial;
+    color: black;
+}
+h1, h2 {text-align: center}
+
+img {
+    width: 500px;
+}
+
+
+
