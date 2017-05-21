@@ -21,9 +21,10 @@ p {
 }
 h1, h2 {text-align: center}
 
-img {
+img {text-align: center;
     width: 500px;
 }
+h3 {text-align: center}
 
 
 
